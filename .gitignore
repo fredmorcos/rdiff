@@ -1,3 +1,22 @@
+*~
+\#*
+.#*
+
+GPATH
+GRTAGS
+GTAGS
+
+vgcore.*
+massif.out*
+cscope.out
+
+compile_commands.json
+
+.depend
+
+rdiff
+rdiffd
+
 # Prerequisites
 *.d
 
